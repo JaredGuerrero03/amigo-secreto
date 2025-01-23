@@ -9,5 +9,5 @@
 <ol>
     <li>Se creó el reposritorio "Amigo secreto" y se sincronizó con el equipo local para mantener un control de versiones.</li>
     <li>Se descargaron las plantillas HTML y CSS para realizar el proyecto.</li>
-    <li>Plantillas añadidas al repositorio</li>
+    <li>Plantillas index.html, styles.css, app.js añadidas al repositorio</li>
 </ol>
