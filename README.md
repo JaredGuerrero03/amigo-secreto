@@ -11,3 +11,9 @@
     <li>Se descargaron las plantillas HTML y CSS para realizar el proyecto.</li>
     <li>Plantillas index.html, styles.css, app.js añadidas al repositorio</li>
 </ol>
+
+ <h4>En app.js </h4>
+<ol>
+    <li>Función agregarAmigo() creada.</li>
+    <li>Función limpiarDatos() creada.</li>
+</ol>
