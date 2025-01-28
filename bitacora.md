@@ -2,7 +2,7 @@
 
 <h2>Challenge Alura</h2>
 
-- Estado: En desarrollo
+- Estado: Finalizado
 
 <h3>23/01/25</h3>
 
@@ -17,3 +17,16 @@
     <li>Función agregarAmigo() creada.</li>
     <li>Función limpiarDatos() creada.</li>
 </ol>
+
+<h3>27/01/25</h3>
+<h4>En app.js</h4>
+<ol>
+    <li>Función sortearAmigo() creada.</li>
+    <li>Función reiniciarJuego() creada.</li>
+    <li>Función borrarGanador() creada.</li>
+</ol>
+<h4>Otras acciones</h4>
+<ul>
+    <li>Se renombró README.md a bitacora.md</li>
+</ul>
+<h2>Página finalizada</h2>
