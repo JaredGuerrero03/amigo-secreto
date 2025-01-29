@@ -30,11 +30,8 @@ Desafío del Curso de Alura el cual consiste en desarrollar las funciones de una
     
 4. Y listo ¡Ya puedes jugar!
 
-<br>
 
-# **O**
 
-**Abre el siguiente link**
 
 ###### *Puedes hacer los cambios que quieras al código. Intenta agregar nuevas funcionalidades.
 
