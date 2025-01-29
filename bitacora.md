@@ -28,5 +28,13 @@
 <h4>Otras acciones</h4>
 <ul>
     <li>Se renombró README.md a bitacora.md</li>
-</ul>
+    <li>Cración de README</li>
 <h2>Página finalizada</h2>
+
+<h3>28/01/25</h3>
+<ol>
+    <li>Finalización de README</li>
+    <li>Página subida</li>
+</ol>
+
+### **FIN DE BITÁCORA**
